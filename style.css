@@ -126,3 +126,32 @@ button i {
     font-weight: 400;
     margin-top: .3rem;
 }
+
+@media screen and (max-width:540px) {
+    .container {
+        width: 90%;
+        padding: 2rem 1rem;
+    }
+
+    form {
+        gap: .5rem;
+    }
+}
+@media screen and (max-width:400px) {
+    .container {
+        width: 90%;
+        padding: 2rem 1rem;
+    }
+
+    form {
+        gap: .5rem;
+    }
+
+    .input{
+        font-size: .9rem;
+    }
+
+    .more-data{
+        flex-direction: column;
+    }
+}
