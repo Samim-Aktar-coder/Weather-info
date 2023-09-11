@@ -1,6 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Weather-info/main/Github%20Banner.png)](https://climate-canvas.netlify.app)
+[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Weather-info/main/Github%20Banner.png)](https://my-weather-watch.netlify.app)
 
-### Live: [Click Here](https://climate-canvas.netlify.app)
+### Live: [Click Here](https://my-weather-watch.netlify.app)
 
 # 🚀 Weather App
 
@@ -29,4 +29,4 @@ Tech stack I use to build this app:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samimaktr/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hellosamaktr)
-[![project](https://img.shields.io/badge/project_link-96C43A?style=for-the-badge&logo=tp-link&logoColor=white)](https://samim-real-estate-website.netlify.appp)
+[![project](https://img.shields.io/badge/project_link-96C43A?style=for-the-badge&logo=tp-link&logoColor=white)](https://top-password-generator.netlify.app)
