@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Weather-info/main/Github%20Banner.png)](https://my-weather-watch.netlify.app)
+[![MasterHead](https://image-link-website.netlify.app/img/weather-app.png)](https://my-weather-watch.netlify.app)
 
 ### Live: [Click Here](https://my-weather-watch.netlify.app)
 
@@ -16,7 +16,7 @@ Tech stack I use to build this app:
 
 ## 🙋‍♂️ Author
 
-- [@SamimAktar](https://github.com/Samim-Aktar-coder)
+- [@SamimAktar](https://github.com/samimaktar-coder)
 
 ## Installation
 
